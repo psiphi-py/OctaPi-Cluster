@@ -16,7 +16,7 @@ Raspberry Pi 8 Node cluster build based on University of South Hampton method: h
 *1 x keyboard
 * internet connection for setup
 
-* optional *
+**optional**
 * 8 x cluster cases
 * SD card adapter
 
