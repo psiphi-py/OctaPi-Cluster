@@ -122,5 +122,5 @@ And save it in deafault directory(press ‘enter again’ and leave the passphra
 
 *cat ~/.ssh/id_rsa.pub | ssh pi@X “mkdir.ssh;cat >> .ssh//authorized_keys”*
 
-Where X denotes the node’s IP. This precess needs to be repeated for each node from the header_node terminal.
+Where X denotes the node’s IP. This process needs to be repeated for each node from the header_node terminal.
 
